@@ -1,0 +1,1 @@
+This is a super cool project I got to work on for my Physics IA! I used a temperature sensor and coded this in C++ on the Arduino IDE to create a temperature logger that was used to generate cooling curves. Much more accurate than other ways of collecting thermodynamic data!
